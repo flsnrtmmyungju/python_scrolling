@@ -19,7 +19,7 @@ for a in alba.select('#MainSuperBrand > ul > li > a.goodsBox-info'):
                     'companyList':a["href"]}
                 
 
-
+dfdf
 AlIST = list(companyList.values())
 
 for company in AlIST :
