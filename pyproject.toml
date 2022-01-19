@@ -9,7 +9,7 @@ description = ""
 name = "day-eight-blueprint"
 version = "0.1.0"
 [tool.poetry.dependencies]
-python = "^3.7"
-requests = "^2.23"
 beautifulsoup4 = "^4.9"
+python = "^3.8"
+requests = "^2.23"
 [tool.poetry.dev-dependencies]
